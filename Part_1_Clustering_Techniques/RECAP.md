@@ -12,3 +12,7 @@ Understanding:
 parameters: 
 1. Episolon - Represents the proximity radius of a point
 2. Minimum number of points within the proximity - Decides how compact your points are within your proximity
+
+## Heirarichal Clustering:
+Link: https://www.youtube.com/watch?v=8QCBl-xdeZI
+Understanding: Initially compact pairs get clustered first, then they compare themselves with other pairs, the comparison of the tree will be based on cluster to cluster distance.
