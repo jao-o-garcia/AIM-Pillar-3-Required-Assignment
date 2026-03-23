@@ -22,7 +22,7 @@ Your tasks:
 - Visualise and interpret clustering results using relevant plots (scatter plots, pair plots).
 - Discuss the business insights derived from the cluster assignments (e.g., high spenders, young shoppers, etc.)
 
-**Dataset**: Mall_Customers.csv
+**Dataset**: [MallCustomers](/Part_1_Clustering_Techniques/datasets/Mall_Customers.csv)
 Features include:
 - CustomerID
 - Gender
@@ -47,7 +47,7 @@ Your tasks:
 - Visualise and interpret clustering results using scatter plots and dendrograms.
 - Discuss the business insights derived from the cluster assignments (e.g., high spenders on fresh products, low spenders, etc.).
 
-Dataset: Wholesale customers Data Set
+Dataset: [Wholesale customers Data Set](/Part_1_Clustering_Techniques/datasets/Wholesale%20customers%20data.csv)
 
 Features include:
 - Fresh (annual spending on fresh products)
@@ -76,7 +76,7 @@ Your tasks:
 - Discuss business or research insights derived from the clustering results, such as clusters with high alcohol content, high acidity, or specific wine classes
 
 Tools: Python + Scikit-learn + Matplotlib/Seaborn
-Dataset: Wine clustering
+Dataset: [Wine clustering](/Part_1_Clustering_Techniques/datasets/wine-clustering.csv)
 
 ## Questions:
 1. Why is DBSCAN particularly suitable for clustering the wine dataset? Explain how DBSCAN's ability to identify clusters of arbitrary shapes and handle noise makes it advantageous for datasets with complex structures.
