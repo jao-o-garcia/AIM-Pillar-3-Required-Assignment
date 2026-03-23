@@ -1,6 +1,8 @@
 # Clustering Assignment Rubric
 
 ## Task 1: K-means Clustering
+
+
 | Task                               | Criteria for Full Points                                                                                | Partial Points                                                                    | No Points                                                              |
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | **1. Data Preprocessing**          | Data cleaned, standardised, and relevant features selected **(1 point)**                                | Minor preprocessing errors or missing standardisation **(0.5 point)**             | No preprocessing or irrelevant features used **(0 points)**            |
@@ -10,7 +12,10 @@
 | **5. Business Insights**           | Insightful interpretation of clusters (e.g., *high spenders, young shoppers*) **(2 points)**            | Basic interpretation with limited business relevance **(1 point)**                | No interpretation or irrelevant insights **(0 points)**                |
 | **6. Question Responses**          | Thorough comparison of **Elbow vs Silhouette**; limitations of **K-Means** are discussed **(2 points)** | Partial comparison or limited discussion of limitations **(1 point)**             | No comparison or incorrect explanation **(0 points)**                  |
 
+
 ## Task 2: Hierarchical Clustering
+
+
 | Task                                          | Criteria for Full Points                                                                                                                                                                         | Partial Points                                                                            | No Points                                                |
 | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- | -------------------------------------------------------- |
 | **1. Data Preprocessing & Feature Use**       | All six product categories *(Fresh, Milk, Grocery, Frozen, Detergents_Paper, Delicatessen)* used and features scaled appropriately **(1 point)**                                                 | Most features used, but preprocessing incomplete or inconsistent **(0.5 point)**          | Features missing or preprocessing absent **(0 points)**  |
@@ -20,7 +25,10 @@
 | **5. Interpretation of Clusters**             | Described cluster characteristics (e.g., *bulk fresh product buyers*, *low spenders*) and linked to business strategy **(2 points)**                                                             | Some correct but vague observations with limited business link **(1 point)**              | No or incorrect interpretation **(0 points)**            |
 | **6. Question Responses**                     | Explained the importance of determining cluster number, role of dendrograms, and how linkage choice affects clusters. Compared limitations with K-Means and suggested mitigations **(2 points)** | Answers present but shallow or slightly inaccurate **(1 point)**                          | Incorrect or missing answers **(0 points)**              |
 
+
 ## Task 3: DBScan Clustering
+
+
 | Task                                      | Criteria for Full Points                                                                                                                           | Partial Points                                                                | No Points                                                      |
 | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------- |
 | **1. Data Preprocessing & Feature Use**   | Data cleaned and standardised appropriately **(1 point)**                                                                                          | Minor issues in preprocessing **(0.5 point)**                                 | No preprocessing or incorrect feature selection **(0 points)** |
@@ -29,3 +37,5 @@
 | **4. Visualisation**                      | PCA or t-SNE plots showing clusters and noise points. Clear labels, legends, and distinction of noise **(2 points)**                               | Visualisation presented but unclear or lacks proper labelling **(1 point)**   | No visualisation or irrelevant plots **(0 points)**            |
 | **5. Interpretation of Clusters & Noise** | Accurately identified clusters' chemical properties *(e.g., high alcohol, high acidity)* and explained significance of noise points **(2 points)** | Partially correct observations but lacking detail or discussion **(1 point)** | No or incorrect interpretation **(0 points)**                  |
 | **6. Question Responses**                 | Explained DBSCAN suitability for complex data and described how **eps/min_samples** affect results with clear examples **(2 points)**              | Answers given but with minimal depth or slight inaccuracies **(1 point)**     | Incorrect or missing answers **(0 points)**                    |
+
+
